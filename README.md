@@ -3,6 +3,7 @@ Java 17 Masterclass: Start Coding in 2024
 8th exercise
 
 Teen Number Checker
+
 We'll say that a number is "teen" if it is in the range 13 -19 (inclusive).
 
 Write a method named hasTeen with 3 parameters of type int.
